@@ -29,7 +29,7 @@ def analyze_symptoms(
             }
         ],
 
-        # MORE STABLE
+       
         "temperature": 0.4,
 
         # IMPORTANT
