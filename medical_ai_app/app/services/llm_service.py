@@ -57,7 +57,7 @@ def analyze_symptoms(
         )
 
 
-        # HTTP ERROR CHECK
+        
         response.raise_for_status()
 
 
