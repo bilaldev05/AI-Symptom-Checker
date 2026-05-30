@@ -61,7 +61,7 @@ def analyze_symptoms(
         response.raise_for_status()
 
 
-        # JSON PARSE
+       
         result = response.json()
 
 
