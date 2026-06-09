@@ -65,7 +65,7 @@ def analyze_symptoms(
         result = response.json()
 
 
-        # SAFETY CHECK
+      
         if "choices" not in result:
 
             raise Exception(
