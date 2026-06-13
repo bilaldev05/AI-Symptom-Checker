@@ -30,7 +30,7 @@ app.include_router(
 )
 
 
-# ROOT
+
 
 @app.get("/")
 def root():
