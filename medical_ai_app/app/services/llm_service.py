@@ -32,7 +32,7 @@ def analyze_symptoms(
        
         "temperature": 0.4,
 
-        # IMPORTANT
+        
         "max_tokens": 250,
 
        
